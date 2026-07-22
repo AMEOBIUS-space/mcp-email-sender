@@ -110,4 +110,6 @@ MIT
 
 ## Author
 
-AMEOBIUS — [github.com/AMEOBIUS](https://github.com/AMEOBIUS)
+aaameobius-crypto — [github.com/aaameobius-crypto](https://github.com/aaameobius-crypto)
+
+Freelance portfolio: [https://ameobius-space.github.io/kwork-portfolio/](https://ameobius-space.github.io/kwork-portfolio/)
